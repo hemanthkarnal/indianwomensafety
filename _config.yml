@@ -1,3 +1,8 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+theme: minima
+title: Indian Women Safety
+description: Bookmark this to safeguard
+minima:
+  skin: dark
+
+plugins:
+  - jekyll-feed
