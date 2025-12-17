@@ -22,6 +22,7 @@ Om Hleem Bagalamukhi Sarva‑dushtanam Vaacham Mukham Padam Stambhaya Jihvaam Ke
 Om Namo Hanumate Rudravataraya Sarvashatru Samharanaya Sarvarog Haraya Sarvvashikaranaya Ramdutaya Swaha
 
 ##Safe gaurd
+
 kindly safe gaurd your personal data.
 
 
