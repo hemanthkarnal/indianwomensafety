@@ -1,4 +1,4 @@
-# Beware: Black Magic & Vashikaran happening by using Matrimony Sites
+# Beware: Black Magic and Vashikaran happening by using Matrimony Sites
 
 ## Introduction
 Black magic and Vashi Karan exploit in matrimony website by using photo and bio data information.
