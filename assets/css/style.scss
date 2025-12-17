@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hide GitHub Pages footer credits */
+.footer {
+  display: none !important;
+}
