@@ -4,6 +4,6 @@
 @import "{{ site.theme }}";
 
 /* Hide GitHub Pages footer credits */
-#header, .credits-left, .credits-right {
+#header, .credits {
   display: none !important;
 }
